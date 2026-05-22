@@ -1,10 +1,10 @@
 # EC Builder — Evaporating Cloud
 
 Browser-based Evaporating Cloud builder for Theory of Constraints practitioners.
-Part of the [TP Tool Suite](<LANDING_PAGE_URL>) *(placeholder)* — a set of tools
+Part of the [TP Tool Suite](https://tp-tools-suite.vercel.app) — a set of tools
 covering Scheinkopf's Thinking Process methodology.
 
-**Live tool:** <TOOL_URL> *(placeholder — fill in when Vercel project is configured)*
+**Live tool:** https://ec-builder.vercel.app
 
 ## What it does
 
@@ -32,7 +32,7 @@ Requires Node 20+.
 ## Deployment
 
 This repo is configured for Vercel deployment. Push to the main branch and
-Vercel auto-builds and deploys to <TOOL_URL>.
+Vercel auto-builds and deploys to https://ec-builder.vercel.app.
 
 ## License
 
